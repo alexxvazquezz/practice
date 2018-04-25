@@ -12,4 +12,4 @@ function isEven(x) {
 }
 
 
-console.log(isEven(-369))
+var char = "Lorem cupidatat ham hock shoulder velit. Flank non salami sed swine. Voluptate ullamco ut, shank tempor porchetta chuck hamburger sirloin sausage. Non shank excepteur, dolore reprehenderit hamburger sirloisadf asdfasdf asdasdfasfd asdfasdfzfZsasdfZSDFASDF"
